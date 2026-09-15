@@ -1,5 +1,4 @@
 void main() {
-  print('hello word');
-  print('hallo nama saya nofal  belajar dart dan flutter');
-
-}
+ print('hello world!');
+ print('hello nama saya nofal belajar dart dan flutter');
+   }
